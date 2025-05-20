@@ -9,7 +9,6 @@ This project is an end-to-end ETL (Extract, Transform, Load) pipeline for proces
 - Database: MySQL, SQL Server
 - ETL Tools: Python scripts for automated extraction and transformation
 - Version Control: Git & GitHub
-- Visualization: Tableau, Power BI
 - Automation: Cron jobs for scheduled ETL execution
 
 📂 Project Structure
